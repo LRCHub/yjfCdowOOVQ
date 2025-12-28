@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "What's up?",
+  "base_artist": "AI jacky",
+  "createdAt": "2025-12-28T14:33:58.201755Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "That's What's Up",
+      "artist": "50 Cent feat. Lloyd Banks & Tony Yayo",
+      "has_synced": false,
+      "path": "select/01_That's_What's_Up_50_Cent_feat._Lloyd_Banks_&_Tony_Yayo.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Now A Dayz - That's What's Up",
+      "artist": "9th Wonder & Buckshot",
+      "has_synced": true,
+      "path": "select/02_Now_A_Dayz_-_That's_What's_Up_9th_Wonder_&_Buckshot.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Now A Dayz (That's What's Up)",
+      "artist": "Buckshot & 9th Wonder",
+      "has_synced": true,
+      "path": "select/03_Now_A_Dayz_(That's_What's_Up)_Buckshot_&_9th_Wonder.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "That's What's Up",
+      "artist": "Skylar Stecker",
+      "has_synced": true,
+      "path": "select/04_That's_What's_Up_Skylar_Stecker.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "What's Up Fatlip?",
+      "artist": "Fatlip",
+      "has_synced": false,
+      "path": "select/05_What's_Up_Fatlip_Fatlip.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "What's Up Fatlip?",
+      "artist": "Fatlip",
+      "has_synced": true,
+      "path": "select/06_What's_Up_Fatlip_Fatlip.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What's Up With That (feat. 21 Savage)",
+      "artist": "Future",
+      "has_synced": false,
+      "path": "select/07_What's_Up_With_That_(feat._21_Savage)_Future.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What's Up",
+      "artist": "How to Dress Well",
+      "has_synced": true,
+      "path": "select/08_What's_Up_How_to_Dress_Well.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What's up",
+      "artist": "Post Malone feat. 1st",
+      "has_synced": true,
+      "path": "select/09_What's_up_Post_Malone_feat._1st.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What's Up (feat. 1st)",
+      "artist": "Post Malone",
+      "has_synced": true,
+      "path": "select/10_What's_Up_(feat._1st)_Post_Malone.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "What's Up Danger (with Black Caviar) - Spider-Man: Into the Spider-Verse",
+      "artist": "Blackway feat. Black Caviar",
+      "has_synced": true,
+      "path": "select/11_What's_Up_Danger_(with_Black_Caviar)_-_Spider-Man__Into_the_Spider-Verse_Blackway_feat._Black_Caviar.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "What’s Up Danger",
+      "artist": "Blackway & Black Caviar",
+      "has_synced": true,
+      "path": "select/12_What’s_Up_Danger_Blackway_&_Black_Caviar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "What's Up",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/13_What's_Up_Rage.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "What’s Up",
+      "artist": "Rage",
+      "has_synced": false,
+      "path": "select/14_What’s_Up_Rage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What's Up Lonely",
+      "artist": "Kelly Clarkson",
+      "has_synced": true,
+      "path": "select/15_What's_Up_Lonely_Kelly_Clarkson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What's Up",
+      "artist": "4 Non Blondes",
+      "has_synced": true,
+      "path": "select/16_What's_Up_4_Non_Blondes.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "What's Up With That",
+      "artist": "ZZ Top",
+      "has_synced": true,
+      "path": "select/17_What's_Up_With_That_ZZ_Top.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "What's Up With That (Original Version)",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/18_What's_Up_With_That_(Original_Version)_ZZ_Top.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "What's up?",
+      "artist": "AI jacky",
+      "has_synced": false,
+      "path": "select/pl_01_What's_up_AI_jacky.txt"
+    }
+  ]
+}
